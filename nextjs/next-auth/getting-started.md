@@ -1,6 +1,6 @@
 # Getting Started
 
-The example code below describes how to Install to a Next.js app.
+Install NextAuth in NextJS.
 
 ## Installation
 
