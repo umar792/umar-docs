@@ -1,0 +1,1 @@
+import{_ as r,c as e,o,aj as t}from"./chunks/framework.BVrbVSmL.js";const _=JSON.parse('{"title":"umar-docs","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),s={name:"README.md"};function d(c,a,m,n,u,i){return o(),e("div",null,a[0]||(a[0]=[t("",3)]))}const h=r(s,[["render",d]]);export{_ as __pageData,h as default};

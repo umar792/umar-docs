@@ -2,7 +2,6 @@ import { defineConfig } from "vitepress";
 import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
 
 export default defineConfig({
-  outDir: './dist',
   lang: "en-US",
   title: "JavaScript Guide",
   description: "Complete JavaScript documentation with examples",
