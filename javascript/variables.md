@@ -56,3 +56,4 @@ const c = 20;
 // in const cannot redeclare and reassign variable with same name
 
 ```
+
