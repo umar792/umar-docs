@@ -81,6 +81,10 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text : "Docker",
+       link : "/docker"
+      }
       //   {
       //     text: 'Functions & Objects',
       //     collapsed: false,
