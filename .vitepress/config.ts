@@ -84,6 +84,17 @@ export default defineConfig({
       {
         text : "Docker",
        link : "/docker"
+      },
+      {
+        text : "OAuth",
+        collapsed : true,
+        items : [
+          {text : "Google OAuth" , link : "/oauth/google-oauth"},
+          {text : "Meta OAuth(facebook oauth)" , link : "/oauth/meta-oauth"},
+          {text : "Shopify OAuth" , link : "/oauth/shopify-oauth"},
+          {text : "Tiktok OAuth" , link : "/oauth/tiktok-oauth"},
+
+        ]
       }
       //   {
       //     text: 'Functions & Objects',
